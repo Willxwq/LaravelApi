@@ -1,0 +1,48 @@
+# Folder view configuration files
+.DS_Store
+Desktop.ini
+
+# Thumbnail cache files
+#._*
+Thumbs.db
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
+# Application specific files
+venv
+.sass-cache
+
+
+# PHP
+/cache
+/vendor
+/Runtime
+/temp
+/.tag*
+/.idea
+/.phalcon
+CHANGELOG.md
+*.log
+*.txt
+config.php
+debugbar.php
+index.php
+
+
+# Laravel
+_ide_helper.php
+_ide_helper_models.php
+.phpstorm.meta.php
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.env
